@@ -1,0 +1,5 @@
+{{#user}}
+Name: Atreo
+Skills: Python, C++, Kotlin, R, NLP, Cloud Computing
+Email: atreo973@gmail.com
+{{/user}}
